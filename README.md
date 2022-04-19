@@ -1,9 +1,9 @@
-¡Hola! Soy Roberto Freitas de Madrid, España 👋
+Hi! I am Roberto Freitas from Madrid, Spain 👋
 
-Aspirante a desarrollador de software de forma autodidacta.
+Aspiring self-taught software developer.
 
-Me gusta leer libros sobre finanzas, productividad y por supuesto programar.
+I like to read books about finance, productivity and of course programming.
 
-¡Aquí podran encontrar la mayoría de los proyectos que voy realizando!
+Here you can find most of the projects I'm doing!
 
-¡Bienvenidos!
+Welcome!
